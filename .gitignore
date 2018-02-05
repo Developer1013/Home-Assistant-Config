@@ -2,5 +2,6 @@
 !themes
 !*.yaml
 !.gitignore
+!travis.yml
 secrets.yaml
 known_devices.yaml
