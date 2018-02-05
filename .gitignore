@@ -5,4 +5,4 @@
 !.travis.yml
 secrets.yaml
 known_devices.yaml
-.db
+*.db
