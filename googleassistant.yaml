@@ -1,0 +1,8 @@
+project_id: home-assistant-69bef
+client_id: xrgoaasoqgzjovxpkevslqwhplcqlthmngkbjzlhrkzeipizvozygiplmshnzdsplndluocnbouahxstlbbgfhdncmezevdjmaggpxlauulheseehqiqemkpjfjfaakv
+access_token: lqdnhozvwurfrytdxslpccbbkulyuycmabamiomksfqormgltebauubvzgkjyjuizbzcsiarhtopsrpkqsisyszozdeiosanmrqtfxmpskkxfitytinwbpdsmasljydo
+exposed_domains:
+  - switch
+  - light
+  - groups
+  - climate

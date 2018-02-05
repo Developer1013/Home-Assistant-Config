@@ -1,0 +1,6 @@
+- platform: mqtt
+  state_topic: "home/bedroom/pir"
+  name: "Bedroom Motion"
+  payload_on: "motion detected"
+  payload_off: "standby"
+  device_class: motion

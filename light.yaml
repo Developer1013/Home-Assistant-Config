@@ -1,0 +1,8 @@
+- platform: mqtt
+  name: "Lamp"
+  state_topic: "home/bedroom/powerstrip/1/stat"
+  command_topic: "home/bedroom/powerstrip/1"
+  qos: 0
+  payload_on: "on"
+  payload_off: "off"
+  retain: true      

@@ -1,0 +1,1 @@
+2018-02-04 23:51:23 ERROR (MainThread) [frontend.js.latest.201801300] http://192.168.1.66:8123/frontend_latest/core-41bb07102212e1ea8b6668370a877b92.js:1:6873 Unable to get property 'attributes' of undefined or null reference
